@@ -1,0 +1,8 @@
+{
+  "name": "meteor-table-operations",
+  "description": "Easily create batch operatiosn for tables",
+  "homepage": "https://github.com/patrickocoffeyo/meteor-table-operations",
+  "author": "Patrick Coffey  (http://scriptsquirrel.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/patrickocoffeyo/meteor-table-operations.git"
+}
