@@ -3,6 +3,6 @@
   "description": "Easily create batch operatiosn for tables",
   "homepage": "https://github.com/patrickocoffeyo/meteor-table-operations",
   "author": "Patrick Coffey  (http://scriptsquirrel.com)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/patrickocoffeyo/meteor-table-operations.git"
 }
